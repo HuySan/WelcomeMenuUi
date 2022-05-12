@@ -1,0 +1,13 @@
+D:\UntPlugins\WelcomeMenu\WelcomeMenu\obj\Debug\WelcomeMenu.csproj.CoreCompileInputs.cache
+D:\UntPlugins\WelcomeMenu\WelcomeMenu\bin\Debug\WelcomeMenu.dll
+D:\UntPlugins\WelcomeMenu\WelcomeMenu\bin\Debug\WelcomeMenu.pdb
+D:\UntPlugins\WelcomeMenu\WelcomeMenu\obj\Debug\WelcomeMenu.csproj.CopyComplete
+D:\UntPlugins\WelcomeMenu\WelcomeMenu\obj\Debug\WelcomeMenu.dll
+D:\UntPlugins\WelcomeMenu\WelcomeMenu\obj\Debug\WelcomeMenu.pdb
+C:\Users\Nice\Documents\GitHub\WelcomeMenuUi\WelcomeMenu\obj\Debug\WelcomeMenu.csproj.CoreCompileInputs.cache
+C:\Users\Nice\Documents\GitHub\WelcomeMenuUi\WelcomeMenu\obj\Debug\WelcomeMenu.pdb
+C:\Users\Nice\Documents\GitHub\WelcomeMenuUi\WelcomeMenu\bin\Debug\WelcomeMenu.dll
+C:\Users\Nice\Documents\GitHub\WelcomeMenuUi\WelcomeMenu\bin\Debug\WelcomeMenu.pdb
+C:\Users\Nice\Documents\GitHub\WelcomeMenuUi\WelcomeMenu\obj\Debug\WelcomeMenu.csproj.CopyComplete
+C:\Users\Nice\Documents\GitHub\WelcomeMenuUi\WelcomeMenu\obj\Debug\WelcomeMenu.dll
+C:\Users\Nice\Documents\GitHub\WelcomeMenuUi\WelcomeMenu\obj\Debug\WelcomeMenu.csproj.AssemblyReference.cache
